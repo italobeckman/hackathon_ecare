@@ -51,7 +51,7 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/italobeckman/ecare.git
+   git clone https://github.com/italobeckman/hackathon_ecare
 
 ## Pré-requisitos
 Antes de começar, você precisará ter as seguintes ferramentas instaladas:
